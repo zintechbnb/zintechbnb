@@ -558,35 +558,6 @@ In case of critical vulnerability:
 
 ---
 
-## Developer Resources
-
-**GitHub**: https://github.com/zintech/contracts  
-**Contract ABIs**: https://github.com/zintech/contracts/tree/main/abi  
-**Deployment Scripts**: https://github.com/zintech/contracts/tree/main/scripts  
-**Integration Guide**: https://docs.zintech.io/integration  
-**Testnet Faucet**: https://faucet.zintech.io
-
----
-
-## Contract Updates
-
-This page is updated regularly. Last update: **October 2025**
-
-For real-time contract information, visit:
-- **Block Explorer**: https://explorer.zintech.io
-- **Contract Registry**: https://github.com/zintech/contracts/blob/main/REGISTRY.md
-
----
-
-## Support
-
-For contract-related questions:
-- **Discord**: https://discord.gg/zintech-dev
-- **Email**: developers@zintech.io
-- **GitHub Issues**: https://github.com/zintech/contracts/issues
-
----
-
 **⚠️ Important**: Always verify contract addresses on official Zintech channels before interacting. Never send funds to unverified addresses.
 
 ---
