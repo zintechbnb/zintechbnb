@@ -1028,8 +1028,6 @@ All contracts have been:
 - ✅ Verified on block explorers
 - ✅ Open sourced on GitHub
 
-**GitHub**: https://github.com/zintech/contracts
-
 ---
 
 © 2025 Zintech Protocol
